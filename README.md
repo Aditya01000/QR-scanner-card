@@ -1,6 +1,6 @@
-#This is a simple project made using HTML and CSS.!
+# his is a simple project made using HTML and CSS.!
 
-##Simple QR card project ( small) to practise html and css skills :D
+## Simple QR card project ( small) to practise html and css skills :D
 
 ## Images my project is given below.
 
